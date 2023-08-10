@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "verus.io",
+		"name": "verus",
         	"url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
 	}],
