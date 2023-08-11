@@ -1,11 +1,11 @@
 {
 	"pools":[
 	{
-		"name": "verus.io",
+		"name": "pool.verus.io",
         	"url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
 	}],
-	"user": "RYJzHC9fHSgk3qeU88SqY3i5SNtm6p94nx",
+	"user": "RYJzHC9fHSgk3qeU88SqY3i5SNtm6p94nx.dutchminer1",
 	"pass": "c=PGN",
 	"algo": "verus",
 	"threads": 8,
